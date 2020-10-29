@@ -1,7 +1,7 @@
 # yamlfukr
 Command line tool to modify yaml files.
 
-Usage:
+## Usage:
 
 	yamlfukr <command> <filename> <args>
 
@@ -10,6 +10,6 @@ Usage:
 
 	update
 
-	yamlfukr update file.yaml key value
-
-	`,
+```
+yamlfukr update file.yaml key value
+```
