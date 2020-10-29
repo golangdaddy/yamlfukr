@@ -1,0 +1,13 @@
+age: 35
+beard: true
+clothing:
+  jacket: leather
+  trousers: denim
+eyes: brown
+hacker: true
+hobbies:
+- skateboarding
+- snowboarding
+- go
+key: value
+name: steve
