@@ -6,7 +6,7 @@ Command line tool to modify yaml files.
 	yamlfukr <command> <filename> <args>
 
 
-	Commands:
+### Commands:
 
 	update
 
