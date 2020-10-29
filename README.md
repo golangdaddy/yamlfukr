@@ -3,8 +3,7 @@ Command line tool to modify yaml files.
 
 ## Usage:
 
-yamlfukr <command> <filename> <args>
-
+yamlfukr command filename ...args
 
 ### Commands:
 
